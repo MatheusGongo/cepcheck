@@ -1,16 +1,16 @@
-# consultacep
+# CONSULTA CEP APP
 
-A new Flutter project.
+- Aplicativo sobre consulta de CEP
+- Possui funcionalidade de pesquisar um cep, mostrar o resultado e renderizar no Mapa a localidade desse CEP.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+# Integrantes
 
-A few resources to get you started if this is your first Flutter project:
+- Matheus Gongo de Souza - Matrícula: 121100005
+- Daniel Realli Gaspar Loureiro - Matrícula: 122100019
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Captura de Tela do App
+![screenshot][https://i.ibb.co/Zx5q4PG/d2f14546-d8f2-4a03-87df-e73d41c995d7.jpg]
