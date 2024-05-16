@@ -13,4 +13,5 @@
 ---
 
 # Captura de Tela do App
-![screenshot][https://i.ibb.co/Zx5q4PG/d2f14546-d8f2-4a03-87df-e73d41c995d7.jpg]
+
+![alt text]([http://url/to/img.png](https://i.ibb.co/Zx5q4PG/d2f14546-d8f2-4a03-87df-e73d41c995d7.jpg))
